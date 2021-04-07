@@ -3,8 +3,20 @@ doctype html
 html
   include includes/head.pug
   body
-      div.title
-        center Title
-      hr
-      h1 Splittt
+      div.about-section
+        h1 Header Title
+        p Header Description
+        p Header Description #2
+      h2(style='text-align:center') Our Team
+      div.row
+        div.column 
+          div.card 
+             div.container
+                h2 Test 
+                p.title CEO
+                p test 
+                p 
+                  button.button Contact
+
+      h1(style='text-align:center') Splittt
       include includes/foot.pug
