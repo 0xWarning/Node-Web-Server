@@ -8,4 +8,4 @@ Install Node.js **[Link](https://nodejs.org/en/download/)**
 Do These Steps in a Terminal Type Enviroment
 - cd node-web-server
 - npm i
-- node index.js
+- node server.js
