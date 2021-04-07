@@ -68,3 +68,17 @@ html {
     display: block;
   }
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #474e5d;
+  color: white;
+  text-align: center;
+  fill: white;
+  margin-top: 0px;
+  padding: 1px;
+  margin-top: 5px;
+}
