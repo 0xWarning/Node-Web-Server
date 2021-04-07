@@ -5,6 +5,7 @@
  # Help
 
 Install Node.js **[Link](https://nodejs.org/en/download/)**
-Navigate to this repos folder whever you have put it
-Install all modules with 'npm i'
-then simply run 'node index.js'
+Do These Steps in a Terminal Type Enviroment
+- cd node-web-server
+- npm i
+- node index.js
